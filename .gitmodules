@@ -1,0 +1,3 @@
+[submodule "maya.github.io"]
+	path = maya.github.io
+	url = git@github.com:maevabrtl/maya.github.io.git
